@@ -5,6 +5,7 @@ import java.util.List;
 import com.pojo.User;
 
 public class PageUtil {
+private int currentPage1=2;
 	private int currentPage=1;
 	private int totalPage;
 	private int pageSize=1;
